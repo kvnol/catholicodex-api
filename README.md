@@ -1,2 +1,2 @@
-<p align="center"><h1>Codex Iuris Canonici</h1></p>
-<p align="center">JSON API</p>
+<h3 align="center">Codex Iuris Canonici</h3>
+<h6 align="center">JSON API</h6>
