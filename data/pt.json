@@ -1,0 +1,3469 @@
+{
+  "codex": [
+    {
+      "info": [
+        {
+          "name": "Código do Direito Canónico",
+          "version": "4.0",
+          "lang": "pt",
+          "copyright": "Conferência Episcopal Portuguesa, Lisboa, 1983",
+          "ISBN": "978-972-39-0098-9"
+        }
+      ],
+      "canons": [
+        {
+          "index": 1,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "content": "Os cânones deste Código dizem respeito unicamente à Igreja latina."
+        },
+        {
+          "index": 2,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "content": "O Código geralmente não determina os ritos a observar na celebração das acções litúrgicas; pelo que as leis litúrgicas actualmente em vigor mantêm a sua validade, a não ser que alguma delas seja contrária aos cânones deste Código."
+        },
+        {
+          "index": 3,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "content": "Os cânones do Código não ab-rogam nem derrogam as convenções celebradas pela Sé Apostólica com os Estados ou outras sociedades políticas, pelo que elas permanecem em vigor, não obstante as prescrições contrárias deste Código."
+        },
+        {
+          "index": 4,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "content": "Os direitos adquiridos, e bem assim os privilégios até ao presente concedidos pela Sé Apostólica a pessoas, quer físicas quer jurídicas, que estão em uso e não foram revogados, continuam inalterados, a menos que sejam expressamente revogados pelos cânones deste Código."
+        },
+        {
+          "index": 5,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "content": [
+            "Os costumes, quer universais quer particulares, actualmente em vigor contra os preceitos destes cânones que são reprovados pelos próprios cânones deste Código ficam inteiramente suprimidos, e não se permita a sua revivescência; os restantes tenham-se também por suprimidos, a não ser que expressamente se determine outra coisa no Código ou sejam centenários ou imemoriais, os quais podem tolerar-se se, a juízo do Ordinário, segundo as circunstâncias dos lugares e das pessoas, não puderem ser suprimidos.",
+            "Conservam-se os costumes para além da lei, actualmente em vigor, quer sejam universais quer particulares."
+          ]
+        },
+        {
+          "index": 6,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "content": [
+            "Com a entrada em vigor deste Código, são ab-rogados: 1.° o Código de Direito Canónico promulgado no ano de 1917; 2.° as outras leis, quer universais quer particulares, contrárias às prescrições deste Código, a não ser que acerca das particulares se determine outra coisa; 3.° quaisquer leis penais, quer universais quer particulares, dimanadas da Sé Apostólica, a não ser que sejam recebidas neste Código; 4.° as outras leis disciplinares universais respeitantes a matéria integralmente ordenada neste Código.",
+            "Os cânones deste Código, na medida em que reproduzem o direito antigo, devem entender-se tendo em consideração também a tradição canónica."
+          ]
+        },
+        {
+          "index": 7,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 1,
+            "name": "Das leis eclesiásticas"
+          },
+          "content": "A lei é instituída quando se promulga."
+        },
+        {
+          "index": 8,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 1,
+            "name": "Das leis eclesiásticas"
+          },
+          "content": [
+            "As leis eclesiásticas universais promulgam-se pela publicação no boletim oficial Acta Apostolicae Sedis, a não ser que, em casos particulares, tenha sido prescrita outra forma de promulgação; e só entram em vigor três meses após o dia indicado no número dos Acta, a não ser que pela natureza da matéria obriguem imediatamente, ou na própria lei se determine especial e expressamente uma vacância mais breve ou mais longa.",
+            "As leis particulares promulgam-se pelo modo determinado pelo legislador e começam a obrigar um mês após a data da promulgação, a não ser que na própria lei se estabeleça outro prazo."
+          ]
+        },
+        {
+          "index": 9,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 1,
+            "name": "Das leis eclesiásticas"
+          },
+          "content": "As leis referem-se ao futuro e não ao passado, a não ser que nelas se disponha expressamente acerca de coisas passadas."
+        },
+        {
+          "index": 10,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 1,
+            "name": "Das leis eclesiásticas"
+          },
+          "content": "Apenas se devem considerar irritantes ou inabilitantes as leis em que se estabelece expressamente que o acto é nulo ou a pessoa inábil."
+        },
+        {
+          "index": 11,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 1,
+            "name": "Das leis eclesiásticas"
+          },
+          "content": "Estão obrigados às leis meramente eclesiásticas os baptizados na Igreja católica ou nela recebidos, que gozem de suficiente uso da razão, e, a não ser que outra coisa expressamente se estabeleça no direito, tenham completado sete anos de idade."
+        },
+        {
+          "index": 12,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 1,
+            "name": "Das leis eclesiásticas"
+          },
+          "content": [
+            "Às leis universais estão obrigados em qualquer parte do mundo todos aqueles para quem elas foram feitas.",
+            "Das leis universais que não vigoram em determinado território estão isentos todos os que na ocasião se encontram nesse território.",
+            "Às leis feitas para determinado território estão sujeitos aqueles a quem elas se destinam e ali têm domicílio ou quase-domicílio e simultaneamente ali se encontram, sem prejuízo do prescrito no cân. 13."
+          ]
+        },
+        {
+          "index": 13,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 1,
+            "name": "Das leis eclesiásticas"
+          },
+          "content": [
+            "As leis particulares não se presumem pessoais, mas territoriais, a não ser que conste outra coisa.",
+            "Os peregrinos não estão sujeitos: 1.° às leis particulares do seu território enquanto dele estão ausentes, a não ser que a sua transgressão cause prejuízo no próprio território, ou sejam leis pessoais; 2.° nem às leis do território em que se encontram, exceptuadas as que tutelam a ordem pública, ou determinam a solenidade dos actos, ou se referem a coisas imóveis situadas nesse território.",
+            "Os vagos estão sujeitos às leis tanto universais como particulares vigentes no lugar em que se encontram."
+          ]
+        },
+        {
+          "index": 14,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 1,
+            "name": "Das leis eclesiásticas"
+          },
+          "content": "As leis, mesmo as irritantes e inabilitantes, não obrigam em caso de dúvida de direito; em caso de dúvida de facto, os Ordinários podem dispensar delas, contanto que, se se tratar de dispensa reservada, esta costume ser concedida pela autoridade à qual está reservada."
+        },
+        {
+          "index": 15,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 1,
+            "name": "Das leis eclesiásticas"
+          },
+          "content": [
+            "A ignorância ou o erro acerca das leis irritantes ou inabilitantes não impede o efeito das mesmas, a não ser que expressamente se determine outra coisa.",
+            "Não se presume a ignorância ou o erro acerca da lei ou da pena, nem acerca de um facto próprio ou de facto alheio notório; mas presume-se acerca de facto alheio não notório, até que se prove o contrário."
+          ]
+        },
+        {
+          "index": 16,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 1,
+            "name": "Das leis eclesiásticas"
+          },
+          "content": [
+            "Interpreta autenticamente as leis o legislador e aquele a quem este confiou o poder de as interpretar autenticamente.",
+            "A interpretação autêntica dada em forma de lei tem o mesmo valor que a própria lei e deve ser promulgada; se apenas esclarecer as palavras da lei de si certas, tem valor retroactivo; se restringir, ampliar ou explicar a lei duvidosa, não se retrotrai.",
+            "A interpretação em forma de sentença judicial ou de acto administrativo num caso peculiar não tem força de lei, e só obriga as pessoas e afecta as coisas para as quais foi dada."
+          ]
+        },
+        {
+          "index": 17,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 1,
+            "name": "Das leis eclesiásticas"
+          },
+          "content": "As leis eclesiásticas devem entender-se segundo o significado próprio das palavras considerado no texto e no contexto; se aquele permanecer duvidoso e obscuro, recorrer-se-á aos lugares paralelos, se os houver, ao fim e às circunstâncias da lei e à mente do legislador."
+        },
+        {
+          "index": 18,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 1,
+            "name": "Das leis eclesiásticas"
+          },
+          "content": "São de interpretação estrita as leis que estabelecem alguma pena, coarctam o livre exercício dos direitos, ou contêm excepção à lei."
+        },
+        {
+          "index": 19,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 1,
+            "name": "Das leis eclesiásticas"
+          },
+          "content": "Se, acerca de algum ponto, faltar preceito expresso da lei, quer universal quer particular, ou costume, a causa, a não ser que seja penal, dirimir-se-á atendendo às leis formuladas para os casos semelhantes, aos princípios gerais do direito aplicados com a equidade canónica, à jurisprudência e praxe da Cúria Romana, e à opinião comum e constante dos doutores."
+        },
+        {
+          "index": 20,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 1,
+            "name": "Das leis eclesiásticas"
+          },
+          "content": "A lei posterior ab-roga a anterior ou derroga-a, se assim o determinar expressamente, ou lhe for directamente contrária, ou ordenar integralmente a matéria da lei anterior; mas a lei universal não derroga o direito particular ou especial, a não ser que outra coisa expressamente se determine no direito."
+        },
+        {
+          "index": 21,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 1,
+            "name": "Das leis eclesiásticas"
+          },
+          "content": "Em caso de dúvida não se presume a revogação de uma lei preexistente, mas as leis posteriores devem cotejar-se com as anteriores e, quanto possível, conciliar-se com elas."
+        },
+        {
+          "index": 22,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 1,
+            "name": "Das leis eclesiásticas"
+          },
+          "content": "As leis civis para que remete o direito da Igreja, observem-se no direito canónico com os mesmos efeitos, desde que não sejam contrárias ao direito divino e a não ser que outra coisa se determine no direito canónico."
+        },
+        {
+          "index": 23,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 2,
+            "name": "Do costume"
+          },
+          "content": "Só tem força de lei o costume introduzido pela comunidade de fiéis que tiver sido aprovado pelo legislador, segundo as normas dos cânones seguintes."
+        },
+        {
+          "index": 24,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 2,
+            "name": "Do costume"
+          },
+          "content": [
+            "Não pode obter força de lei nenhum costume que seja contrário ao direito divino.",
+            "Também não pode obter força de lei o costume contra ou para além do direito canónico, se não for razoável; o costume expressamente reprovado no direito não é razoável."
+          ]
+        },
+        {
+          "index": 25,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 2,
+            "name": "Do costume"
+          },
+          "content": "Nenhum costume obtém força de lei a não ser que tenha sido observado por uma comunidade capaz, ao menos, de receber leis com a intenção de introduzir direito."
+        },
+        {
+          "index": 26,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 2,
+            "name": "Do costume"
+          },
+          "content": "A não ser que tenha sido especialmente aprovado pelo legislador competente, o costume contrário ao direito canónico em vigor ou para além da lei canónica só obtém força de lei, se tiver sido legitimamente observado durante trinta anos contínuos e completos; mas contra a lei canónica que contenha uma cláusula a proibir costumes futuros, só pode prevalecer o costume centenário ou imemorial."
+        },
+        {
+          "index": 27,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 2,
+            "name": "Do costume"
+          },
+          "content": "O costume é o melhor intérprete da lei."
+        },
+        {
+          "index": 28,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 2,
+            "name": "Do costume"
+          },
+          "content": "Salvo o disposto no cân. 5, o costume quer contra a lei quer para além dela, revoga-se por costume contrário ou por lei; porém, a não ser que deles faça menção expressa, a lei não revoga os costumes centenários ou imemoriais, nem a lei universal os costumes particulares."
+        },
+        {
+          "index": 29,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 3,
+            "name": "Dos decretos gerais e das instruções"
+          },
+          "content": "Os decretos gerais, com que o legislador competente estabelece prescrições comuns para uma comunidade capaz de receber leis, são leis propriamente ditas e regem-se pelas prescrições dos cânones relativos às leis."
+        },
+        {
+          "index": 30,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 3,
+            "name": "Dos decretos gerais e das instruções"
+          },
+          "content": "Quem tem somente poder executivo não pode fazer decretos gerais, a que se refere o cân. 29, a não ser que, em casos particulares, segundo o direito tal faculdade lhe tenha sido expressamente concedida pelo legislador competente e observadas as condições estabelecidas no acto da concessão."
+        },
+        {
+          "index": 31,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 3,
+            "name": "Dos decretos gerais e das instruções"
+          },
+          "content": [
+            "Dentro dos limites da sua competência, quem tem poder executivo pode fazer decretos gerais executórios, com os quais se determina mais concretamente o modo a observar na aplicação da lei, ou se urge a observância das leis.",
+            "No concernente à promulgação e vacância dos decretos referidos no § 1, observem-se as prescrições do cân. 8."
+          ]
+        },
+        {
+          "index": 32,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 3,
+            "name": "Dos decretos gerais e das instruções"
+          },
+          "content": "Os decretos gerais executórios obrigam aqueles que estão sujeitos às leis cujo modo de aplicação esses decretos determinam ou cuja observância urgem."
+        },
+        {
+          "index": 33,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 3,
+            "name": "Dos decretos gerais e das instruções"
+          },
+          "content": [
+            "Os decretos gerais executórios, ainda que publicados em directórios ou documentos de outro modo designados, não derrogam as leis, e carecem de todo o valor os seus preceitos que sejam contrários às leis.",
+            "Os mesmos decretos deixam de ter valor por revogação explícita ou implícita feita pela autoridade competente, e ainda por cessação da lei para cuja execução foram emitidos; mas não cessam por ter terminado o direito de quem os emitiu, a não ser que se estabeleça expressamente o contrário."
+          ]
+        },
+        {
+          "index": 34,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 3,
+            "name": "Dos decretos gerais e das instruções"
+          },
+          "content": [
+            "As instruções, que explicitam os preceitos legais e desenvolvem e determinam o modo como eles se devem observar, são feitas para uso daqueles a quem pertence dar execução às leis e obrigam-nos nessa execução; emite-as legitimamente, dentro dos limites da sua competência, quem tem poder executivo.",
+            "As ordenações das instruções não derrogam as leis, e se algumas delas não se puderem harmonizar com as prescrições das leis, carecem de todo o valor.",
+            "As instruções deixam de ter valor não só pela revogação explícita ou implícita da autoridade competente, que as emitiu, ou do seu superior, mas ainda pela cessação da lei para cuja declaração ou execução foram emitidas."
+          ]
+        },
+        {
+          "index": 35,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Normas comuns"
+          },
+          "content": "O acto administrativo singular, quer seja decreto ou preceito, quer rescrito, pode ser emitido, dentro dos limites da sua competência, por quem tem poder executivo, sem prejuízo do prescrito no cân. 76, § 1."
+        },
+        {
+          "index": 36,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Normas comuns"
+          },
+          "content": [
+            "O acto administrativo deve entender-se segundo o significado próprio das palavras e o uso comum de falar; em caso de dúvida, os concernentes aos litígios judiciais ou a cominar ou impor penas, ou os que coarctam os direitos da pessoa, ou lesam os direitos adquiridos por outros, ou são contrários a uma lei em favor dos particulares, são de interpretação estrita; todos os outros são de interpretação lata.",
+            "O acto administrativo não deve aplicar-se a outros casos para além dos que foram expressos."
+          ]
+        },
+        {
+          "index": 37,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Normas comuns"
+          },
+          "content": "O acto administrativo relativo ao foro externo deve consignar-se por escrito; o mesmo se diga, se se procede em forma comissória, relativamente ao acto desta execução."
+        },
+        {
+          "index": 38,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Normas comuns"
+          },
+          "content": "O acto administrativo, mesmo quando se tratar de um rescrito dado Motu proprio, carece de efeito na medida em que lesar o direito adquirido de outrem, ou for contrário à lei ou ao costume aprovado, a não ser que a autoridade competente lhe tenha aposto expressamente uma cláusula derrogatória."
+        },
+        {
+          "index": 39,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Normas comuns"
+          },
+          "content": "As condições incluídas no acto administrativo só se consideram apostas para a validade quando forem expressas pelas partículas se (si), a não ser que (nisi), contanto que (dummodo)."
+        },
+        {
+          "index": 40,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Normas comuns"
+          },
+          "content": "O executor de um acto administrativo desempenha invalidamente o seu múnus, antes de ter recebido o documento e examinado a sua autenticidade e integridade, a não ser que o conhecimento prévio do mesmo lhe tenha sido transmitido por autoridade de quem emitiu o referido acto."
+        },
+        {
+          "index": 41,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Normas comuns"
+          },
+          "content": "O executor do acto administrativo a quem foi cometido o simples múnus de execução não pode negar a execução desse acto, a não ser que apareça claramente que esse acto é nulo, ou que por causa grave não pode manter-se ou que não estão verificadas as condições apostas ao acto administrativo; se, porém, a execução do acto administrativo parecer inoportuna em razão das circunstâncias da pessoa ou do lugar, o executor interrompa a execução; nestes casos comunique imediatamente o facto à autoridade que emitiu o acto."
+        },
+        {
+          "index": 42,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Normas comuns"
+          },
+          "content": "O executor do acto administrativo deve proceder segundo as normas do mandato; se não cumprir as condições essenciais apostas no documento e não observar a forma substancial de proceder, a execução é inválida."
+        },
+        {
+          "index": 43,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Normas comuns"
+          },
+          "content": "O executor do acto administrativo, segundo o seu prudente juízo, pode fazer-se substituir por outrem, a não ser que tenha sido proibida a substituição, ou ele tenha sido escolhido pela sua especial aptidão, ou determinada a pessoa do substituto; nestes casos, porém, é permitido ao executor confiar a outrem os actos preparatórios."
+        },
+        {
+          "index": 44,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Normas comuns"
+          },
+          "content": "O acto administrativo pode também ser executado pelo sucessor do executor no ofício, a não ser que ele tenha sido escolhido pela sua especial aptidão."
+        },
+        {
+          "index": 45,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Normas comuns"
+          },
+          "content": "O executor, se de qualquer modo tiver errado na execução do acto administrativo, pode executá-lo de novo."
+        },
+        {
+          "index": 46,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Normas comuns"
+          },
+          "content": "O acto administrativo não cessa com o termo do direito daquele que o emitiu, a não ser que expressamente se determine outra coisa."
+        },
+        {
+          "index": 47,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Normas comuns"
+          },
+          "content": "A revogação de um acto administrativo por outro acto administrativo da autoridade executiva competente somente surte efeito a partir do momento em que for legitimamente notificado à pessoa para a qual foi dado."
+        },
+        {
+          "index": 48,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Dos decretos e preceitos singulares"
+          },
+          "content": "Entende-se por decreto singular o acto administrativo emanado da competente autoridade executiva pelo qual, segundo as normas do direito, se dá uma decisão ou se faz um provimento, que, pela sua natureza, não pressupõe uma petição feita por alguém"
+        },
+        {
+          "index": 49,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Dos decretos e preceitos singulares"
+          },
+          "content": "Preceito singular é o decreto pelo qual directa e legitimamente se impõe a uma ou mais pessoas determinadas que façam ou omitam alguma coisa, sobretudo para urgir a observância da lei."
+        },
+        {
+          "index": 50,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Dos decretos e preceitos singulares"
+          },
+          "content": "Antes de lavrar um decreto singular, a autoridade recolha as informações e provas necessárias, e, na medida do possível, oiça aqueles cujos direitos possam ser lesados."
+        },
+        {
+          "index": 51,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Dos decretos e preceitos singulares"
+          },
+          "content": "O decreto lavre-se por escrito, indicando, ao menos sumariamente, os motivos, se se tratar de uma decisão."
+        },
+        {
+          "index": 52,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Dos decretos e preceitos singulares"
+          },
+          "content": "O decreto singular só tem valor para as coisas que determina e para as pessoas para quem foi dado; obriga-as, porém, em toda a parte, se não constar outra coisa."
+        },
+        {
+          "index": 53,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Dos decretos e preceitos singulares"
+          },
+          "content": "Se os decretos forem contrários entre si, o peculiar, nas coisas que se exprimem de forma peculiar, prevalece sobre o geral; se forem igualmente peculiares ou gerais, o posterior no tempo ob-roga o anterior, na medida em que lhe for contrário."
+        },
+        {
+          "index": 54,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Dos decretos e preceitos singulares"
+          },
+          "content": [
+            "O decreto singular, cuja aplicação se confia ao executor, surte efeito desde o momento da execução; de contrário, desde o momento em que é intimado ao interessado por autoridade da pessoa que o lavrou.",
+            "O decreto singular, para poder ser urgido, deve ser intimado por documento
+            legítimo segundo as normas do direito."
+          ]
+        },
+        {
+          "index": 55,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Dos decretos e preceitos singulares"
+          },
+          "content": "Salvo o prescrito nos câns. 37 e 51, quando uma causa gravíssima obstar a que se entregue o texto escrito do decreto, este considera-se intimado se for lido àquele a quem se destina perante o notário ou duas testemunhas, redigindo-se a acta que deve ser assinada por todos os presentes."
+        },
+        {
+          "index": 56,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Dos decretos e preceitos singulares"
+          },
+          "content": "O decreto considera-se intimado, se aquele a quem se destina, devidamente convocado para receber ou ouvir o decreto, sem justa causa não comparecer ou se recusar a assiná-lo."
+        },
+        {
+          "index": 57,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Dos decretos e preceitos singulares"
+          },
+          "content": [
+            "Quando a lei prescrever que se lavre um decreto ou quando o interessado apresentar legitimamente uma petição ou recurso para obter um decreto, a autoridade competente providencie dentro de três meses depois de recebida a petição ou o recurso, a não ser que a lei prescreva outro prazo.",
+            "Decorrido este prazo sem que o decreto tenha sido lavrado, presume-se que a resposta é negativa, em ordem a ser proposto recurso ulterior",
+            "A resposta negativa presumida não exime a autoridade competente da obrigação de lavrar o decreto, nem de reparar o dano que porventura tenha causado nos termos do cân. 128."
+          ]
+        },
+        {
+          "index": 58,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Dos decretos e preceitos singulares"
+          },
+          "content": [
+            "O decreto singular deixa de ter valor por revogação legítima feita pela autoridade competente e ainda por cessação da lei para cuja execução foi lavrado.",
+            "O preceito singular, que não tenha sido imposto por documento legítimo, caduca por cessação do direito do mandante."
+          ]
+        },
+        {
+          "index": 59,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 3,
+            "name": "Dos rescritos"
+          },
+          "content": [
+            "Rescrito é o acto administrativo exarado por escrito pela competente autoridade executiva, pelo qual, de sua natureza, a pedido de alguém, se concede um privilégio, uma dispensa ou outra graça.",
+            "O que se determina acerca dos rescritos vale também para a concessão de uma licença, assim como para as concessões de graças feitas de viva voz, se outra coisa não constar"
+          ]
+        },
+        {
+          "index": 60,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 3,
+            "name": "Dos rescritos"
+          },
+          "content": "Qualquer rescrito pode ser impetrado por todos os que não estejam expressamente proibidos de o fazer"
+        },
+        {
+          "index": 61,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 3,
+            "name": "Dos rescritos"
+          },
+          "content": "Se não constar outra coisa, pode impetrar-se um rescrito para outrem, mesmo sem o seu assentimento, e é válido antes da sua aceitação, salvo se tiver cláusulas contrárias."
+        },
+        {
+          "index": 62,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 3,
+            "name": "Dos rescritos"
+          },
+          "content": "O rescrito em que não haja executor surte efeito a partir do momento em que o documento foi lavrado; os restantes desde o momento da execução."
+        },
+        {
+          "index": 63,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 3,
+            "name": "Dos rescritos"
+          },
+          "content": [
+            "A sub-repção, ou seja a ocultação da verdade, obsta à validade do rescrito se na súplica não tiver sido expresso aquilo que segundo à lei, o estilo e a praxe canónica se deve exprimir para a validade, a não ser que se trate de um rescrito de graça que tenha sido dado Motu proprio.",
+            "Do mesmo modo obsta à validade do rescrito a ob-repção, ou seja a exposição de falsidade, se nem sequer uma das causas motivas apresentadas for verdadeira.",
+            "Nos rescritos em que não há executor é necessário que a causa motiva seja verdadeira no momento em que o rescrito for lavrado; nos outros, no momento da execução."
+          ]
+        },
+        {
+          "index": 64,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 3,
+            "name": "Dos rescritos"
+          },
+          "content": "Salvo o direito da Penitenciaria para o foro interno, a graça negada por qualquer dicastério da Cúria Romana não pode ser validamente concedida por outro dicastério da mesma Cúria ou por qualquer outra autoridade inferior ao Romano Pontífice, sem o assentimento do dicastério com que se começou a tratar do caso."
+        },
+        {
+          "index": 65,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 3,
+            "name": "Dos rescritos"
+          },
+          "content": [
+            "Salvo o prescrito nos §§ 2 e 3, ninguém peça a outro Ordinário uma graça que lhe foi negada pelo Ordinário próprio, a não ser fazendo menção da negação; feita esta menção, o Ordinário não conceda a graça, a não ser depois de ter recebido do primeiro Ordinário os motivos da negação.",
+            "A graça negada pelo Vigário geral ou pelo Vigário episcopal não pode ser concedida validamente por outro Vigário do mesmo Bispo, mesmo depois de conhecidas as razões do Vigário que a negou.",
+            "É inválida a graça recusada pelo Vigário geral ou pelo Vigário episcopal e posteriormente impetrada do Bispo diocesano sem se fazer menção daquela recusa; a graça negada pelo Bispo diocesano não se pode impetrar validamente do seu Vigário geral ou episcopal, mesmo fazendo menção da recusa, sem o consentimento do Bispo."
+          ]
+        },
+        {
+          "index": 66,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 3,
+            "name": "Dos rescritos"
+          },
+          "content": "O rescrito não é inválido por erro do nome da pessoa a quem é dado, ou de quem o concedeu, ou do lugar em que ela reside, ou da coisa de que se trata, contanto que, a juízo do Ordinário, não haja dúvida alguma acerca da própria pessoa ou da coisa."
+        },
+        {
+          "index": 67,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 3,
+            "name": "Dos rescritos"
+          },
+          "content": [
+            "Se suceder que se alcancem dois rescritos contrários entre si acerca da mesma coisa, o peculiar, no que se exprime peculiarmente, prevalece sobre o geral.",
+            "Se forem igualmente peculiares ou gerais, o primeiro no tempo prevalece sobre o posterior, a não ser que no segundo se faça menção expressa do primeiro, ou o primeiro impetrante por dolo ou negligência notável não tenha usado o seu rescrito.",
+            "Na dúvida se o rescrito é valido ou não, recorra-se a quem o concedeu."
+          ]
+        },
+        {
+          "index": 68,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 3,
+            "name": "Dos rescritos"
+          },
+          "content": "O rescrito da Sé Apostólica em que não há executor só deve ser apresentado ao Ordinário do impetrante, quando isso se prescrever no próprio documento ou se tratar de coisas públicas, ou for necessário comprovar as condições."
+        },
+        {
+          "index": 69,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 3,
+            "name": "Dos rescritos"
+          },
+          "content": "O rescrito, em que não se prescreve tempo determinado para a sua apresentação, pode apresentar-se ao executor em qualquer altura, contanto que não haja fraude ou dolo."
+        },
+        {
+          "index": 70,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 3,
+            "name": "Dos rescritos"
+          },
+          "content": "Se no rescrito a própria concessão se confiar ao executor, compete a este, segundo o seu prudente juízo e consciência, conceder ou denegar a graça."
+        },
+        {
+          "index": 71,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 3,
+            "name": "Dos rescritos"
+          },
+          "content": "Ninguém é obrigado a fazer uso de um rescrito concedido só a seu favor, a não ser que por outra razão a tal esteja vinculado por obrigação canónica."
+        },
+        {
+          "index": 72,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 3,
+            "name": "Dos rescritos"
+          },
+          "content": "Os rescritos concedidos pela Sé Apostólica, que já tenham expirado, podem por justos motivos ser prorrogados uma só vez pelo Bispo diocesano, mas não para além de três meses."
+        },
+        {
+          "index": 73,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 3,
+            "name": "Dos rescritos"
+          },
+          "content": "Por lei contrária não se revoga nenhum rescrito, a não ser que outra coisa se determine na própria lei."
+        },
+        {
+          "index": 74,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 3,
+            "name": "Dos rescritos"
+          },
+          "content": "Ainda que alguém possa usar no foro interno a graça que lhe foi concedida de viva voz, tem no entanto de a provar no foro externo, quando tal lhe for legitimamente pedido."
+        },
+        {
+          "index": 75,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 3,
+            "name": "Dos rescritos"
+          },
+          "content": "Se o rescrito contiver privilégio ou dispensa, observem-se também as prescrições dos cânones seguintes."
+        },
+        {
+          "index": 76,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 4,
+            "name": "Dos privilégios"
+          },
+          "content": [
+            "O privilégio, ou seja a graça outorgada por acto peculiar em favor de certas pessoas físicas ou jurídicas, pode ser concedido pelo legislador ou ainda pela autoridade executiva a quem o legislador tiver concedido tal poder.",
+            "A posse centenária ou imemorial induz a presunção de ter sido concedido o privilégio."
+          ]
+        },
+        {
+          "index": 77,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 4,
+            "name": "Dos privilégios"
+          },
+          "content": "O privilégio deve interpretar-se segundo as normas do cân. 36 § 1; mas deve empregar-se sempre interpretação com a qual os favorecidos com o privilégio de facto consigam alguma graça."
+        },
+        {
+          "index": 78,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 4,
+            "name": "Dos privilégios"
+          },
+          "content": [
+            "O privilégio presume-se perpétuo, a não ser que se prove o contrário.",
+            "O privilégio pessoal, isto é aquele que segue a pessoa, extingue-se com ela.",
+            "O privilégio real cessa pela destruição total da coisa ou do lugar; o privilégio local, porém, revive se o lugar se restaurar dentro de cinquenta anos."
+          ]
+        },
+        {
+          "index": 79,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 4,
+            "name": "Dos privilégios"
+          },
+          "content": "O privilégio cessa por revogação feita pela autoridade competente nos termos do cân. 47, sem prejuízo do prescrito no cân. 81."
+        },
+        {
+          "index": 80,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 4,
+            "name": "Dos privilégios"
+          },
+          "content": [
+            "Nenhum privilégio cessa por renúncia, se esta não for aceite pela autoridade competente.",
+            "Qualquer pessoa física pode renunciar ao privilégio concedido exclusivamente em seu favor.",
+            "As pessoas singulares não podem renunciar ao privilégio concedido a alguma pessoa jurídica, ou em razão da dignidade do lugar ou da coisa; nem é lícito à pessoa jurídica renunciar ao privilégio que lhe foi concedido, se tal renúncia redundar em prejuízo da Igreja ou de outrem."
+          ]
+        },
+        {
+          "index": 81,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 4,
+            "name": "Dos privilégios"
+          },
+          "content": "Não se extingue o privilégio ao cessar o poder de quem o concedeu, a não ser que tenha sido concedido com a cláusula segundo o nosso beneplácito ou outra equivalente."
+        },
+        {
+          "index": 82,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 4,
+            "name": "Dos privilégios"
+          },
+          "content": "O privilégio não oneroso para terceiros não cessa pelo não uso ou pelo uso contrário; mas o que for gravoso para outros perde-se, se sobrevier prescrição legítima."
+        },
+        {
+          "index": 83,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 4,
+            "name": "Dos privilégios"
+          },
+          "content": [
+            "Cessa o privilégio por ter decorrido o tempo ou por se ter atingido o número de casos para que foi concedido, sem prejuízo do prescrito no cân. 142, § 2.",
+            "Cessa também, se no decurso do tempo se modificarem de tal modo as circunstâncias que, a juízo da autoridade competente, o privilégio se tenha tornado nocivo, ou ilícito o seu uso."
+          ]
+        },
+        {
+          "index": 84,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 4,
+            "name": "Dos privilégios"
+          },
+          "content": "Quem abusar do poder que lhe foi concedido por privilégio, merece ser privado do próprio privilégio; por isso, o Ordinário depois de ter avisado em vão o privilegiado, prive do privilégio que ele mesmo concedeu quem dele abusa gravemente; se porém o privilégio tiver sido concedido pela Sé Apostólica, o Ordinário tem obrigação de a avisar"
+        },
+        {
+          "index": 85,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 5,
+            "name": "Das dispensas"
+          },
+          "content": "A dispensa, ou seja a relaxação da lei meramente eclesiástica num caso particular, pode ser concedida por quem tenha autoridade executiva dentro dos limites da sua competência, e ainda por aqueles a quem, pelo direito ou por delegação legítima, explícita ou implicitamente competir o poder de dispensar."
+        },
+        {
+          "index": 86,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 5,
+            "name": "Das dispensas"
+          },
+          "content": "Não são susceptíveis de dispensa as leis na medida em que definem os elementos constitutivos essenciais dos institutos ou dos actos jurídicos."
+        },
+        {
+          "index": 87,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 5,
+            "name": "Das dispensas"
+          },
+          "content": [
+            "O Bispo diocesano, sempre que julgar que isso contribui para o bem espiritual dos fiéis, pode dispensá-los das leis disciplinares tanto universais como particulares promulgadas pela autoridade suprema da Igreja para o seu território ou para os seus súbditos, mas não das leis processuais ou penais nem daquelas cuja dispensa esteja especialmente reservada à Sé Apostólica ou a outra autoridade.",
+            "Se for difícil o recurso à Santa Sé e simultaneamente houver perigo de grave dano na demora, qualquer Ordinário pode dispensar das mesmas leis, ainda que a dispensa esteja reservada à Santa Sé, contanto que se trate de dispensa que ela nas mesmas circunstâncias costume conceder, sem prejuízo da prescrição do cân. 291."
+          ]
+        },
+        {
+          "index": 88,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 5,
+            "name": "Das dispensas"
+          },
+          "content": "O Ordinário do lugar pode dispensar das leis diocesanas e, quando o julgar conveniente para o bem dos fiéis, das leis dimanadas do Concílio plenário ou provincial ou da Conferência episcopal."
+        },
+        {
+          "index": 89,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 5,
+            "name": "Das dispensas"
+          },
+          "content": "O pároco e os outros presbíteros ou os diáconos não podem dispensar da lei universal ou particular, a não ser que tal poder lhes tenha sido concedido expressamente."
+        },
+        {
+          "index": 90,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 5,
+            "name": "Das dispensas"
+          },
+          "content": [
+            "Não se dispense da lei eclesiástica sem causa justa e razoável, tendo em consideração as circunstâncias do caso e a gravidade da lei de que se dispensa; de contrário a dispensa é ilícita e, a não ser que tenha sido concedida pelo legislador ou seu superior, é também inválida.",
+            "Em caso de dúvida acerca da suficiência da causa, a dispensa concede-se válida e licitamente."
+          ]
+        },
+        {
+          "index": 91,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 5,
+            "name": "Das dispensas"
+          },
+          "content": "Quem tem poder para dispensar, mesmo estando fora do seu território, pode exercê-lo para com os seus súbditos, ainda que estes se encontrem fora desse território, e também, a não ser que se estabeleça expressamente o contrário, em favor dos peregrinos que se encontrem actualmente no território, assim como em favor de si próprio."
+        },
+        {
+          "index": 92,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 5,
+            "name": "Das dispensas"
+          },
+          "content": "Está sujeita a interpretação estrita não só a dispensa segundo as normas do cân. 36 § 1, mas também a própria faculdade de dispensar concedida para um caso determinado."
+        },
+        {
+          "index": 93,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 4,
+            "name": "Dos actos administrativos singulares"
+          },
+          "chapter": {
+            "index": 5,
+            "name": "Das dispensas"
+          },
+          "content": "A dispensa, que tem tracto sucessivo, cessa da mesma forma que o privilégio, e ainda por cessação certa e total da causa motiva."
+        },
+        {
+          "index": 94,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 5,
+            "name": "Dos estatutos e regulamentos"
+          },
+          "chapter": "",
+          "content": [
+            "Os estatutos, em sentido próprio, são ordenações que, segundo as normas do direito, se estabelecem para universalidades de pessoas ou de coisas, e pelos quais se determinam o fim, a constituição, o governo e o modo de actuar das mesmas.",
+            "Os estatutos das universalidades de pessoas obrigam apenas as pessoas que legitimamente delas são membros; os estatutos das universalidades de coisas obrigam aqueles que exercem a direcção das mesmas.",
+            "As prescrições dos estatutos elaboradas e promulgadas em virtude do poder legislativo regem-se pelas determinações dos cânones relativos às leis."
+          ]
+        },
+        {
+          "index": 95,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 5,
+            "name": "Dos estatutos e regulamentos"
+          },
+          "chapter": "",
+          "content": [
+            "Os regulamentos são regras ou normas a observar em reuniões de pessoas, quer essas reuniões sejam determinadas pela autoridade eclesiástica quer convocadas livremente pelos fiéis, ou em outras assembleias, nas quais se estabelece o que diz respeito à constituição, direcção e modo de proceder.",
+            "Nestas reuniões e assembleias estão obrigados às regras do regulamento quantos nelas tomam parte."
+          ]
+        },
+        {
+          "index": 96,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da condição canónica das pessoas físicas"
+          },
+          "content": "Pelo baptismo o homem é incorporado na Igreja de Cristo e nela constituído pessoa, com os deveres e direitos que, atendendo à sua condição, são próprios dos cristãos, na medida em que estes permanecem na comunhão eclesiástica e a não ser que obste uma sanção legitimamente infligida."
+        },
+        {
+          "index": 97,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da condição canónica das pessoas físicas"
+          },
+          "content": [
+            "É maior a pessoa que completou dezoito anos de idade; antes desta idade é menor",
+            "O menor, antes de completar sete anos, chama-se infante e considera-se que não tem o uso da razão; completados os sete anos, presume-se que o tem."
+          ]
+        },
+        {
+          "index": 98,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da condição canónica das pessoas físicas"
+          },
+          "content": [
+            "A pessoa maior tem o pleno exercício dos seus direitos.",
+            "A pessoa menor, no exercício dos seus direitos, está sujeita ao poder dos pais ou tutores, excepto naquilo em que os menores, por lei divina ou pelo direito canónico, estão isentos do poder daqueles; no concernente à constituição dos tutores e aos seus poderes, observem-se as prescrições do direito civil, a não ser que o direito canónico prescreva outra coisa, ou o Bispo diocesano, em certos casos, por justos motivos, julgue conveniente providenciar por meio da nomeação de outro tutor."
+          ]
+        },
+        {
+          "index": 99,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da condição canónica das pessoas físicas"
+          },
+          "content": "Quem habitualmente carecer do uso da razão, considera-se que o não possui e equipara-se aos infantes."
+        },
+        {
+          "index": 100,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da condição canónica das pessoas físicas"
+          },
+          "content": "A pessoa diz-se: morador, no lugar onde tem domicílio; adventício, no lugar onde tem quase-domicílio; peregrino, se se encontrar fora do domicílio ou quase-domicílio que ainda mantém; vago, se não tem domicílio ou quase-domicílio em parte alguma."
+        },
+        {
+          "index": 101,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da condição canónica das pessoas físicas"
+          },
+          "content": [
+            "O lugar da origem do filho, mesmo neófito, é aquele em que, quando o filho nasceu, os pais tinham domicílio, ou na falta dele, quase-domicílio; ou, se os pais não tinham o mesmo domicílio ou quase-domicílio, a mãe.",
+            "Se se tratar de filho de vagos, o lugar de origem é o próprio lugar do nascimento; se de exposto, o lugar em que foi encontrado."
+          ]
+        },
+        {
+          "index": 102,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da condição canónica das pessoas físicas"
+          },
+          "content": [
+            "O domicílio adquire-se pela residência no território de alguma paróquia ou, ao menos, de alguma diocese, acompanhada da intenção de aí permanecer perpetuamente se nada o fizer transferir-se, ou por a residência de facto se ter prolongado por cinco anos completos.",
+            "O quase-domicílio adquire-se pela residência no território de alguma paróquia ou, ao menos, de alguma diocese, acompanhada da intenção de aí permanecer ao menos por três meses se nada o fizer transferir-se, ou por a residência de facto se ter prolongado por três meses.",
+            "O domicílio ou o quase-domicílio no território da paróquia diz-se paroquial; no território da diocese, ainda que não numa paróquia, diz-se diocesano."
+          ]
+        },
+        {
+          "index": 103,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da condição canónica das pessoas físicas"
+          },
+          "content": "Os membros dos institutos religiosos e das sociedades de vida apostólica adquirem domicílio no lugar onde está situada a casa a que estão adscritos; quase-domicílio na casa onde residem, nos termos do cân. 102, § 2."
+        },
+        {
+          "index": 104,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da condição canónica das pessoas físicas"
+          },
+          "content": "Tenham os cônjuges domicílio ou quase-domicílio comum; por motivo de separação legítima ou por outra justa causa, cada um deles pode ter domicílio ou quase-domicílio próprio."
+        },
+        {
+          "index": 105,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da condição canónica das pessoas físicas"
+          },
+          "content": [
+            "O menor tem necessariamente o domicílio ou o quase-domicílio daquele a cujo poder está submetido. Depois da infância pode adquirir também quase-domicílio próprio; e o legitimamente emancipado, segundo as normas do direito civil, pode mesmo adquirir domicílio próprio.",
+            "Aquele que, por motivo diverso da menoridade foi legitimamente entregue à tutela ou curatela de outrem, tem o domicílio ou o quase-domicílio do tutor ou curador."
+          ]
+        },
+        {
+          "index": 106,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da condição canónica das pessoas físicas"
+          },
+          "content": "Perde-se o domicílio ou o quase-domicílio pelo abandono do lugar com intenção de não regressar, salvo o prescrito no cân. 105."
+        },
+        {
+          "index": 107,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da condição canónica das pessoas físicas"
+          },
+          "content": [
+            "Cada qual adquire o seu pároco e Ordinário pelo domicílio ou pelo quase-domicílio.",
+            "O pároco ou o Ordinário próprio do vago é o pároco ou o Ordinário do lugar onde o vago na ocasião se encontra.",
+            "O pároco próprio daquele que só tem domicílio ou quase-domicílio diocesano é o pároco do lugar em que ele na ocasião se encontra."
+          ]
+        },
+        {
+          "index": 108,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da condição canónica das pessoas físicas"
+          },
+          "content": [
+            "A consanguinidade conta-se por linhas e graus.",
+            "Na linha recta, há tantos graus quantas as gerações, ou quantas as pessoas, excluído o tronco.",
+            "Na linha oblíqua há tantos graus quantas as pessoas em ambas as linhas, simultaneamente, excluído o tronco."
+          ]
+        },
+        {
+          "index": 109,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da condição canónica das pessoas físicas"
+          },
+          "content": [
+            "A afinidade origina-se no matrimónio válido, mesmo não consumado, e existe entre o marido e os consanguíneos da mulher, e entre a mulher e os consanguíneos do marido.",
+            "A afinidade conta-se de forma que os que são consanguíneos do marido sejam afins da mulher na mesma linha e grau, e vice-versa."
+          ]
+        },
+        {
+          "index": 110,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da condição canónica das pessoas físicas"
+          },
+          "content": "Os filhos que tiverem sido adoptados nos termos da lei civil, consideram-se filhos daquele ou daqueles que os tiverem adoptado."
+        },
+        {
+          "index": 111,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da condição canónica das pessoas físicas"
+          },
+          "content": [
+            "Pela recepção do baptismo fica adscrito à Igreja latina o filho de pais que a ela pertençam ou, se um deles a esta não pertencer, ambos, de comum acordo, tiverem optado por que a prole fosse baptizada na Igreja latina; na falta de acordo, fica adscrito à Igreja ritual a que o pai pertence.",
+            "O baptizando que tiver completado catorze anos de idade pode livremente escolher baptizar-se na Igreja latina ou em outra Igreja ritual autónoma (sui iuris); neste caso ele fica a pertencer à Igreja que escolheu."
+          ]
+        },
+        {
+          "index": 112,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da condição canónica das pessoas físicas"
+          },
+          "content": [
+            "Depois de recebido o baptismo, são adscritos a outra Igreja ritual autónoma: 1.° quem tiver obtido licença da Sé Apostólica; 2.° o cônjuge que, ao contrair matrimónio ou durante ele, declarar que passa para a Igreja ritual autónoma do outro; dissolvido, porém, o matrimónio, pode regressar livremente à Igreja latina; 3.° os filhos das pessoas referidas nos ns. l e 2, antes dos catorze anos completos, e ainda, nos matrimónios mistos, os filhos da parte católica que tenham passado legitimamente para outra Igreja ritual; atingida aquela idade, podem regressar à Igreja latina.",
+            "A prática, mesmo prolongada, de alguém receber os sacramentos segundo o rito de uma Igreja ritual autónoma não acarreta a adscrição a essa Igreja."
+          ]
+        },
+        {
+          "index": 113,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Das pessoas jurídicas"
+          },
+          "content": [
+            "A Igreja católica e a Sé Apostólica têm a natureza de pessoa moral por própria ordenação divina.",
+            "Na Igreja, além das pessoas físicas, há também pessoas jurídicas, ou sejam sujeitos em direito canónico de obrigações e de direitos consentâneos com a sua índole."
+          ]
+        },
+        {
+          "index": 114,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Das pessoas jurídicas"
+          },
+          "content": [
+            "As universalidades de pessoas ou de coisas ordenadas a um fim consentâneo com a missão da Igreja, que transcenda o fim de cada indivíduo, são constituídas pessoas jurídicas por prescrição de direito ou por especial concessão da autoridade competente feita por decreto.",
+            "Os fins mencionados no § 1 são aqueles que se referem a obras de piedade, de apostolado ou de caridade, quer espiritual quer temporal.",
+            "A autoridade competente da Igreja não confira personalidade jurídica a não ser àquelas universalidades de pessoas ou de coisas que prossigam um fim realmente útil, e, tudo ponderado, disponham de meios que se preveja possam bastar para atingir o fim proposto."
+          ]
+        },
+        {
+          "index": 115,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Das pessoas jurídicas"
+          },
+          "content": [
+            "As pessoas jurídicas na Igreja são ou universalidades de pessoas ou universalidades de coisas.",
+            "A universalidade de pessoas, que não pode constar de menos de três pessoas, é colegial se os seus membros determinam a sua actuação, concorrendo para tomar as decisões, com direitos iguais ou não, segundo as normas do direito e dos estatutos; de contrário, é não-colegial.",
+            "A universalidade de coisas ou fundação autónoma consta de bens ou coisas, quer espirituais quer materiais, e é regida, segundo as normas do direito e dos estatutos, por uma ou mais pessoas físicas ou por um colégio."
+          ]
+        },
+        {
+          "index": 116,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Das pessoas jurídicas"
+          },
+          "content": [
+            "As pessoas jurídicas públicas são universalidades de pessoas ou de coisas, constituídas pela autoridade eclesiástica competente para, dentro dos fins que a si mesmas se propuseram, segundo as prescrições do direito, desempenharem em nome da Igreja o múnus próprio que lhes foi confiado em ordem ao bem público; as outras pessoas jurídicas são privadas.",
+            "As pessoas jurídicas públicas adquirem esta personalidade quer pelo próprio direito quer por decreto da autoridade competente que expressamente a conceda; as pessoas jurídicas privadas adquirem esta personalidade apenas por decreto especial da autoridade competente que expressamente a conceda."
+          ]
+        },
+        {
+          "index": 117,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Das pessoas jurídicas"
+          },
+          "content": "Nenhuma universalidade de pessoas ou de coisas, que pretenda adquirir personalidade jurídica, a pode obter sem que os seus estatutos sejam aprovados pela autoridade competente."
+        },
+        {
+          "index": 118,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Das pessoas jurídicas"
+          },
+          "content": "Representam a pessoa jurídica pública, agindo em seu nome, aqueles a quem tal competência é reconhecida por direito universal ou particular ou pelos estatutos próprios; representam a pessoa jurídica privada aqueles a quem tal competência é atribuída pelos estatutos."
+        },
+        {
+          "index": 119,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Das pessoas jurídicas"
+          },
+          "content": "No concernente aos actos colegiais, a não ser que outra coisa se determine no direito ou nos estatutos: 1.° se se tratar de eleições, terá valor de direito o que, estando presente a maior parte dos que devem ser convocados, for aprovado por maioria absoluta dos presentes; depois de dois escrutínios ineficazes, a votação faça-se entre os dois candidatos que obtiveram a maior parte dos votos, ou, se forem mais, entre os dois mais velhos em idade; depois do terceiro escrutínio, se se mantiver a igualdade, considere-se eleito o que for mais velho em idade; 2.° se se tratar de outros assuntos, terá valor de direito o que, estando presente a maior parte dos que devem ser convocados, for aprovado pela maioria absoluta dos presentes; se depois de dois escrutínios houver igualdade de votos, o presidente pode dirimir a paridade com o seu voto; 3.º o que respeita a todos individualmente, por todos deve ser aprovado."
+        },
+        {
+          "index": 120,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Das pessoas jurídicas"
+          },
+          "content": [
+            "A pessoa jurídica é, por sua natureza, perpétua; extingue-se contudo se for suprimida legitimamente pela autoridade competente ou se deixar de actuar pelo espaço de cem anos; a pessoa jurídica privada extingue-se ainda se a associação se dissolver segundo as normas dos estatutos, ou se, a juízo da autoridade competente, a própria fundação deixar de existir segundo as normas dos estatutos.",
+            "Se existir só um dos membros da pessoa jurídica colegial e a universalidade de pessoas não tiver deixado de existir segundo os estatutos, o exercício de todos os direitos da universalidade compete àquele membro único."
+          ]
+        },
+        {
+          "index": 121,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Das pessoas jurídicas"
+          },
+          "content": "Quando se unirem universalidades, quer de pessoas quer de coisas, que sejam pessoas jurídicas públicas, de tal modo que delas se forme uma única universalidade com personalidade jurídica, esta nova pessoa jurídica adquire os bens e os direitos patrimoniais próprios das anteriores e assume os encargos que oneravam as mesmas; no concernente em especial ao destino dos bens e ao cumprimento dos encargos, devem ressalvar-se a vontade dos fundadores e dos oferentes e os direitos adquiridos"
+        },
+        {
+          "index": 122,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Das pessoas jurídicas"
+          },
+          "content": "Ao dividir-se uma universalidade, que goze de personalidade jurídica pública, de forma que uma parte se una a outra pessoa jurídica, ou da parte desmembrada se erija uma pessoa jurídica pública distinta, a autoridade eclesiástica competente para proceder à divisão, ressalvados em primeiro lugar a vontade dos fundadores e dos oferentes, os direitos adquiridos e os estatutos aprovados, deve procurar por si ou por meio do executor: 1.° que os bens comuns, que se possam dividir, os direitos patrimoniais e também as dívidas e outros encargos se dividam equitativamente na devida proporção entre as pessoas jurídicas em causa, tendo em conta todas as circunstâncias e as necessidades de cada uma; 2.° que o uso e usufruto dos bens comuns, que não sejam divisíveis, fiquem para ambas as pessoas jurídicas e os encargos respectivos pesem sobre ambas, observada também a devida proporção, determinada equitativamente."
+        },
+        {
+          "index": 123,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 6,
+            "name": "Das pessoas físicas e jurídicas"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Das pessoas jurídicas"
+          },
+          "content": "Extinta a pessoa jurídica pública, o destino dos seus bens e direitos patrimoniais e ainda dos encargos rege-se pelo direito e pelos estatutos; se estes nada disserem, transferem-se para a pessoa jurídica imediatamente superior, salvos sempre a vontade dos fundadores e oferentes e os direitos adquiridos; extinta a pessoa jurídica privada, o destino dos seus bens e encargos rege-se pelos estatutos próprios."
+        },
+        {
+          "index": 124,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 7,
+            "name": "Dos actos jurídicos"
+          },
+          "chapter": "",
+          "content": [
+            "Para a validade do acto jurídico, requer-se que este seja realizado por pessoa hábil, que nele se verifiquem os elementos que essencialmente o constituem, e ainda as solenidades e requisitos exigidos pelo direito para a validade do acto.",
+            "O acto jurídico, devidamente realizado quanto aos seus elementos externos, presume-se válido."
+          ]
+        },
+        {
+          "index": 125,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 7,
+            "name": "Dos actos jurídicos"
+          },
+          "chapter": "",
+          "content": [
+            "O acto realizado por violência exercida por uma causa externa sobre a pessoa à qual esta de modo nenhum pode resistir, tem-se por não realizado.",
+            "O acto realizado por medo grave, injustamente incutido, ou por dolo, é válido, a não ser que o direito determine outra coisa; mas pode ser rescindido por sentença do juiz, quer a instância da parte lesada ou dos que lhe sucedem no direito, quer oficiosamente."
+          ]
+        },
+        {
+          "index": 126,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 7,
+            "name": "Dos actos jurídicos"
+          },
+          "chapter": "",
+          "content": "O acto realizado por ignorância ou por erro, que verse sobre aquilo que constitui a sua substância ou recai em condição sine qua non, é inválido; de contrário, é válido, a não ser que o direito determine outra coisa; mas o acto realizado por ignorância ou por erro pode dar lugar a uma acção rescisória segundo as normas do direito."
+        },
+        {
+          "index": 127,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 7,
+            "name": "Dos actos jurídicos"
+          },
+          "chapter": "",
+          "content": [
+            "Quando se estabelece no direito que para realizar alguns actos o Superior necessita do consentimento ou do parecer de algum colégio ou grupo de pessoas, deve ser convocado esse colégio ou grupo de pessoas nos termos do cân. 166, a não ser que, quando se tratar somente de pedir o parecer, outra coisa se determine no direito particular ou no próprio; mas para que os actos sejam válidos requer-se que se obtenha o consentimento da maioria absoluta dos presentes ou se tenha solicitado o parecer de todos.",
+            "Quando o direito estabelece que o Superior, para realizar alguns actos, necessita do consentimento ou do parecer de algumas pessoas, individualmente consideradas: 1.° se se exigir o consentimento, é inválido o acto do Superior que não solicitou o consentimento dessas pessoas, ou que procedeu contra o voto das mesmas ou de alguma delas; 2.° se se exigir o parecer, é inválido o acto do Superior que não ouviu essas pessoas; o Superior, embora não tenha obrigação de seguir o parecer delas, mesmo sendo concorde, contudo sem razão prevalente, que ele mesmo avaliará, não se afaste do parecer delas, sobretudo se foi concorde.",
+            "Todos aqueles cujo consentimento ou parecer se requer, tem obrigação de dar a sua opinião com sinceridade e, se a gravidade da matéria o exigir, de guardar segredo cuidadosamente; obrigação que o Superior pode urgir."
+          ]
+        },
+        {
+          "index": 128,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 7,
+            "name": "Dos actos jurídicos"
+          },
+          "chapter": "",
+          "content": "Quem ilegitimamente causar dano a outrem com um acto jurídico, e mesmo com qualquer outro acto realizado com dolo ou culpa, tem obrigação de reparar o dano causado."
+        },
+        {
+          "index": 129,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 8,
+            "name": "Do poder de governo"
+          },
+          "chapter": "",
+          "content": [
+            "Quem recebeu a ordem sagrada é capaz, segundo as normas do direito, do poder de governo, que por instituição divina existe na Igreja, e que também é chamado poder de jurisdição.",
+            "Os fiéis leigos podem cooperar no exercício desse poder, segundo as normas do direito."
+          ]
+        },
+        {
+          "index": 130,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 8,
+            "name": "Do poder de governo"
+          },
+          "chapter": "",
+          "content": "O poder de governo de si exerce-se para o foro externo; algumas vezes, porém, só para o foro interno, mas de forma que os efeitos, que o seu exercício possa vir a ter no foro externo, não sejam reconhecidos neste foro, a não ser na medida em que pelo direito tal tenha sido estabelecido para casos determinados."
+        },
+        {
+          "index": 131,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 8,
+            "name": "Do poder de governo"
+          },
+          "chapter": "",
+          "content": [
+            "O poder ordinário de governo é aquele que pelo próprio direito está anexo a algum ofício; delegado é o que se concede à própria pessoa sem ser mediante o ofício.",
+            "O poder ordinário de governo pode ser próprio ou vigário",
+            "Àquele que se diz delegado incumbe o ónus de provar a delegação."
+          ]
+        },
+        {
+          "index": 132,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 8,
+            "name": "Do poder de governo"
+          },
+          "chapter": "",
+          "content": [
+            "As faculdades habituais regem-se pelas prescrições do poder delegado.",
+            "Contudo, a não ser que na concessão outra coisa se determine expressamente ou tenha sido escolhida a pessoa pela sua competência, a faculdade habitual concedida ao Ordinário não se extingue com o termo do direito do Ordinário ao qual fora concedida, ainda que ele a tivesse começado a executar, mas passa para qualquer Ordinário que lhe suceda no governo."
+          ]
+        },
+        {
+          "index": 133,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 8,
+            "name": "Do poder de governo"
+          },
+          "chapter": "",
+          "content": [
+            "É ferido de nulidade o que faz o delegado que ultrapassar os limites do seu mandato, tanto acerca das coisas como acerca das pessoas.",
+            "Não se considera que ultrapassa os limites do seu mandato o delegado que executar aquilo para que foi delegado de modo diverso daquele que se determina no mandato, a não ser que o modo tenha sido prescrito pelo delegante para a validade."
+          ]
+        },
+        {
+          "index": 134,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 8,
+            "name": "Do poder de governo"
+          },
+          "chapter": "",
+          "content": [
+            "Com o nome de Ordinário designam-se, em direito, além do Romano Pontífice, os Bispos diocesanos e os outros que, mesmo só interinamente, são colocados à frente de uma Igreja particular ou de uma comunidade equiparada segundo o cân. 368, e ainda os que nas mesmas têm poder executivo ordinário geral, a saber, os Vigários gerais e episcopais; do mesmo modo, para com os seus súbditos, os Superiores maiores dos institutos religiosos clericais de direito pontifício e das sociedades clericais de vida apostólica de direito pontifício, que tenham pelo menos poder executivo ordinário.",
+            "Com o nome de Ordinários do lugar designam-se todos os referidos no § 1, exceptuados os Superiores dos institutos religiosos e das sociedades de vida apostólica.",
+            "O que nos cânones se atribui nominalmente ao Bispo diocesano, no âmbito do poder executivo, entende-se competir somente ao Bispo diocesano e aos que lhe são equiparados no cân. 381 § 2, com exclusão do Vigário geral e episcopal, a não ser por mandato especial."
+          ]
+        },
+        {
+          "index": 135,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 8,
+            "name": "Do poder de governo"
+          },
+          "chapter": "",
+          "content": [
+            "O poder de governo divide-se em legislativo, executivo e judicial.",
+            "O poder legislativo deve ser exercido pelo modo prescrito no direito, e aquele poder de que goza na Igreja o legislador inferior à autoridade suprema não pode ser delegado validamente, a não ser que outra coisa se determine explicitamente no direito; o legislador inferior não pode fazer validamente uma lei contrária ao direito superior.",
+            "O poder judicial, que têm os juízes ou os colégios judiciais deve ser exercido pelo modo prescrito no direito, e não pode ser delegado, a não ser para os actos preparatórios de qualquer decreto ou sentença.",
+            "No concernente ao exercício do poder executivo, observem-se as prescrições dos cânones seguintes."
+          ]
+        },
+        {
+          "index": 136,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 8,
+            "name": "Do poder de governo"
+          },
+          "chapter": "",
+          "content": "Quem tem poder executivo, pode exercê-lo, mesmo estando fora do território, em relação aos seus súbditos, embora ausentes do território, a não ser que pela natureza da matéria ou por prescrição do direito conste outra coisa; e também em relação aos peregrinos que actualmente se encontrem no território, se se tratar de conceder favores ou de dar execução a leis universais ou a leis particulares a que eles estejam sujeitos segundo as normas do cân. 13, § 2, n.° 2."
+        },
+        {
+          "index": 137,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 8,
+            "name": "Do poder de governo"
+          },
+          "chapter": "",
+          "content": [
+            "O poder executivo ordinário pode delegar-se quer para um acto, quer para todos os casos, a não ser que no direito expressamente se estabeleça outra coisa.",
+            "O poder executivo delegado pela Sé Apostólica pode ser subdelegado, quer para um acto, quer para todos os casos, a não ser que tenha sido concedido em atenção à competência da pessoa ou a subdelegação tenha sido expressamente proibida.",
+            "O poder executivo delegado por outra autoridade que tenha poder ordinário, se tiver sido delegado para todos os casos, só pode ser subdelegado em cada caso; se tiver sido delegado para um ou mais actos determinados, não pode ser subdelegado, a não ser por expressa concessão do delegante.",
+            "Nenhum poder subdelegado pode ser de novo subdelegado, a não ser que tal tenha sido expressamente concedido pelo delegante."
+          ]
+        },
+        {
+          "index": 138,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 8,
+            "name": "Do poder de governo"
+          },
+          "chapter": "",
+          "content": "O poder executivo ordinário e o poder delegado para todos os casos é de interpretação lata; qualquer outro é de interpretação restrita; no entanto, a quem foi dado poder delegado, entende-se que lhe é igualmente concedido tudo aquilo sem o que tal poder não pode ser exercido."
+        },
+        {
+          "index": 139,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 8,
+            "name": "Do poder de governo"
+          },
+          "chapter": "",
+          "content": [
+            "A não ser que pelo direito se tenha estabelecido outra coisa, pelo facto de alguém recorrer a uma autoridade competente, mesmo superior, não se suspende o poder executivo de outra autoridade competente, quer este seja ordinário quer delegado.",
+            "Porém o inferior não se intrometa na causa deferida à autoridade superior, a não ser por motivo grave e urgente; neste caso avise imediatamente o superior acerca do facto."
+          ]
+        },
+        {
+          "index": 140,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 8,
+            "name": "Do poder de governo"
+          },
+          "chapter": "",
+          "content": [
+            "Se vários forem delegados solidariamente para tratarem de um assunto, o que primeiro começar a tratar dele exclui os demais de tratar do mesmo assunto, a não ser que ele depois esteja impedido ou não queira continuar a ocupar-se do caso.",
+            "Se vários forem delegados colegialmente para tratarem de um assunto, todos devem proceder a teor do cân. 119, a não ser que outra coisa se disponha no mandato.",
+            "O poder executivo delegado a vários, presume-se que lhes foi delegado solidariamente."
+          ]
+        },
+        {
+          "index": 141,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 8,
+            "name": "Do poder de governo"
+          },
+          "chapter": "",
+          "content": "Se vários forem delegados sucessivamente, ocupe-se do assunto aquele cujo mandato é anterior e não tiver sido posteriormente revogado."
+        },
+        {
+          "index": 142,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 8,
+            "name": "Do poder de governo"
+          },
+          "chapter": "",
+          "content": [
+            "O poder delegado extingue-se: cumprido o mandato; decorrido o prazo ou preenchido o número de casos para que foi concedido; por cessação da causa final da delegação; por revogação feita pelo delegante e intimada directamente ao delegado e ainda pela renúncia do delegado manifestada ao delegante e por este aceite; mas não por ter cessado o direito do delegante, a não ser que isso se deduza claramente das cláusulas apostas.",
+            "Contudo o acto exercido por poder delegado só para o foro interno, executado por inadvertência depois de ter expirado o tempo da concessão, é válido."
+          ]
+        },
+        {
+          "index": 143,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 8,
+            "name": "Do poder de governo"
+          },
+          "chapter": "",
+          "content": [
+            "O poder ordinário extingue-se com a perda do ofício a que está anexo.",
+            "A não se determinar outra coisa no direito, o poder ordinário suspende-se, se legitimamente se apelar ou for interposto recurso contra a privação ou remoção do ofício."
+          ]
+        },
+        {
+          "index": 144,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 8,
+            "name": "Do poder de governo"
+          },
+          "chapter": "",
+          "content": [
+            "Em caso de erro comum de facto ou de direito, e ainda em caso de dúvida positiva e provável, quer de direito quer de facto, a Igreja supre o poder executivo de governo tanto para o foro externo como para o interno.",
+            "Esta mesma norma aplica-se às faculdades de que se trata nos câns. 882, 883, 966 e 1111, § l."
+          ]
+        },
+        {
+          "index": 145,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": "",
+          "content": [
+            "Ofício eclesiástico é qualquer cargo estavelmente constituído por ordenação divina ou eclesiástica que deve ser exercido para um fim espiritual.",
+            "As obrigações e os direitos próprios de cada ofício eclesiástico determinam-se quer pelo próprio direito pelo qual se constitui o ofício quer pelo decreto da autoridade competente pelo qual o ofício simultaneamente se constitui e se confere."
+          ]
+        },
+        {
+          "index": 146,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "content": "Sem provisão canónica não se pode obter validamente nenhum ofício eclesiástico."
+        },
+        {
+          "index": 147,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "content": "A provisão do ofício eclesiástico faz-se: por livre colação pela autoridade eclesiástica competente; por instituição conferida pela mesma autoridade, se tiver precedido apresentação; por confirmação ou admissão feita pela mesma, se tiver precedido eleição ou postulação; finalmente por simples eleição e aceitação do eleito, se a eleição não carecer de confirmação."
+        },
+        {
+          "index": 148,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "content": "À autoridade a quem pertence erigir, alterar e suprimir os ofícios compete também a provisão dos mesmos, se o direito não dispuser outra coisa."
+        },
+        {
+          "index": 149,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "content": [
+            "Para alguém ser promovido a um ofício eclesiástico, deve estar na comunhão da Igreja e ser idóneo, isto é, possuir as qualidades requeridas para esse ofício por direito universal ou particular ou pela lei da fundação.",
+            "A provisão do ofício eclesiástico feita àquele que carece das qualidades requeridas só é inválida se por direito universal ou particular ou pela lei da fundação tais qualidades se exigirem expressamente para a validade da provisão; de contrário é válida, mas pode ser rescindida por decreto da autoridade competente ou por sentença do tribunal administrativo.",
+            "A provisão de um ofício feita por simonia é, pelo próprio direito, inválida."
+          ]
+        },
+        {
+          "index": 150,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "content": "O ofício que importa a plena cura de almas, para cujo desempenho se requer o exercício da ordem sacerdotal, não pode ser conferido validamente a quem ainda não tiver recebido o sacerdócio."
+        },
+        {
+          "index": 151,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "content": "Sem grave motivo não se difira a provisão de um ofício que importe a cura de almas."
+        },
+        {
+          "index": 152,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "content": "A ninguém se confiram dois ou mais ofícios incompatíveis, isto é, que não possam ser desempenhados simultaneamente pela mesma pessoa."
+        },
+        {
+          "index": 153,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "content": [
+            "A provisão de um ofício juridicamente não vago é pelo mesmo facto inválida, e não se convalida por vagatura posterior.",
+            "Tratando-se de ofício que pelo direito se confere por tempo determinado, a provisão pode fazer-se dentro de seis meses antes de expirar o prazo, e surte efeito a partir do dia da vagatura do ofício.",
+            "A promessa de algum ofício, feita seja por quem for, não produz nenhum efeito jurídico."
+          ]
+        },
+        {
+          "index": 154,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "content": "O ofício juridicamente vago, mas que porventura ainda se encontre ilegitimamente na posse de alguém, pode ser conferido, contanto que tenha sido devidamente declarado que tal posse não é legítima, e se faça referência dessa declaração no documento da colação."
+        },
+        {
+          "index": 155,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "content": "Quem confere um ofício para suprir a negligência ou o impedimento de outrem, por tal facto não adquire nenhum poder sobre a pessoa a quem o ofício foi conferido; mas a condição jurídica desta constitui-se como se a provisão tivesse sido feita segundo as normas ordinárias do direito."
+        },
+        {
+          "index": 156,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "content": "Consigne-se por escrito a provisão de qualquer ofício."
+        },
+        {
+          "index": 157,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 1,
+            "name": "Da livre colação"
+          },
+          "content": "A não ser que outra coisa se determine explicitamente no direito, pertence ao Bispo diocesano prover por livre colação os ofícios eclesiásticos na sua Igreja particular."
+        },
+        {
+          "index": 158,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 2,
+            "name": "Da apresentação"
+          },
+          "content": [
+            "A apresentação para um ofício eclesiástico por aquele que tem direito de apresentar deve fazer-se à autoridade a quem compete conferir a instituição para o ofício de que se trata e, a não ser que legitimamente esteja estabelecida outra coisa, dentro de três meses depois de recebida a notícia da vagatura do ofício.",
+            "Se o direito de apresentação competir a um colégio ou grupo de pessoas, designe-se o apresentando segundo as normas dos câns. 165-179."
+          ]
+        },
+        {
+          "index": 159,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 2,
+            "name": "Da apresentação"
+          },
+          "content": "Não se apresente ninguém contra a sua vontade; se aquele que se propõe para ser apresentado, interrogado acerca da sua vontade, não recusar dentro de oito dias úteis, pode ser apresentado."
+        },
+        {
+          "index": 160,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 2,
+            "name": "Da apresentação"
+          },
+          "content": [
+            "Quem tiver direito de apresentação pode apresentar uma só ou várias pessoas, quer simultânea quer sucessivamente.",
+            "Ninguém se pode apresentar a si mesmo; mas o colégio ou o grupo de pessoas pode apresentar algum dos seus membros."
+          ]
+        },
+        {
+          "index": 161,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 2,
+            "name": "Da apresentação"
+          },
+          "content": [
+            "A não ser que o direito estabeleça outra coisa, quem apresentou uma pessoa que foi julgada não idónea pode só mais uma vez apresentar outro candidato dentro de um mês.",
+            "Se o apresentado renunciar ou falecer antes de feita a instituição, quem tem o direito de apresentação pode de novo exercer o seu direito, dentro de um mês depois de recebida a notícia da renúncia ou da morte."
+          ]
+        },
+        {
+          "index": 162,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 2,
+            "name": "Da apresentação"
+          },
+          "content": "Quem não fizer a apresentação dentro do tempo útil segundo cân. 158, § 1 e o cân. 161, e também quem tiver apresentado por duas vezes pessoa julgada não idónea, perde o direito de apresentar para aquele caso, e compete à autoridade a quem pertence conferir a instituição prover livremente o ofício vago, porém com o assentimento do Ordinário próprio do que foi provido."
+        },
+        {
+          "index": 163,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 2,
+            "name": "Da apresentação"
+          },
+          "content": "A autoridade a quem segundo as normas do direito compete instituir o apresentado, institua o que foi legitimamente apresentado, que ele julgar idóneo, e que tiver aceitado; se tiverem sido legitimamente apresentados vários, que forem julgados idóneos, deve instituir um deles."
+        },
+        {
+          "index": 164,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da eleição"
+          },
+          "content": "Se o direito não providenciar de outro modo, nas eleições canónicas observem-se as prescrições dos cânones seguintes."
+        },
+        {
+          "index": 165,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da eleição"
+          },
+          "content": "A não ser que o direito ou os legítimos estatutos do colégio ou do grupo disponham outra coisa, se a algum colégio ou grupo de pessoas competir o direito de eleger para um ofício, não se difira a eleição para além de um trimestre útil contado a partir do conhecimento da vagatura do ofício; tendo decorrido inutilmente este prazo, a autoridade eclesiástica, a quem sucessivamente compete o direito de confirmar a eleição ou o direito de prover, proveja livremente o ofício vago."
+        },
+        {
+          "index": 166,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da eleição"
+          },
+          "content": [
+            "O presidente do colégio ou do grupo convoque todos os que pertencem ao colégio ou ao grupo; a convocação, quando deva ser pessoal, é válida, se for feita no lugar do domicílio ou do quase-domicílio ou no lugar da residência.",
+            "Se algum dos convocandos tiver sido preterido e por isso estiver ausente, a eleição é válida; no entanto, a instância do mesmo, provada a preterição e a ausência, a eleição, ainda quando confirmada, deve ser rescindida pela autoridade competente, contanto que conste juridicamente que o recurso foi transmitido ao menos dentro de três dias depois de ter tido conhecimento da eleição.",
+            "Se tiver sido preterida mais do que a terça parte dos eleitores, a eleição é nula pelo próprio direito, a não ser que todos os preteridos de facto tenham estado presentes."
+          ]
+        },
+        {
+          "index": 167,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da eleição"
+          },
+          "content": [
+            "Feita legitimamente a convocação, têm direito de votar os que se encontrarem presentes no dia e lugar determinados na mesma convocação, excluindo-se a faculdade de votar por carta ou por procurador, a não ser que outra coisa esteja estabelecida legitimamente nos estatutos.",
+            "Se algum dos eleitores se encontrar na casa onde se realiza a eleição, mas não puder estar presente por doença, recolha-se por meio dos escrutinadores o seu voto escrito."
+          ]
+        },
+        {
+          "index": 168,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da eleição"
+          },
+          "content": "Ainda que alguém tenha direito de votar em nome próprio por diversos títulos, só pode dar um voto."
+        },
+        {
+          "index": 169,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da eleição"
+          },
+          "content": "Para ser válida a eleição, não pode ser admitido a votar quem não pertencer ao colégio ou grupo."
+        },
+        {
+          "index": 170,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da eleição"
+          },
+          "content": "A eleição, cuja liberdade for de facto impedida por qualquer forma, é pelo próprio direito inválida."
+        },
+        {
+          "index": 171,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da eleição"
+          },
+          "content": [
+            "São inábeis para votar: 1.° o incapaz de actos humanos; 2.° quem carecer de voz activa; 3.º quem estiver abrangido pela pena de excomunhão por sentença judicial
+         ou por decreto que aplique ou declare a pena; 4.º quem notoriamente se afastou da comunhão da Igreja.",
+            "Se algum dos referidos for admitido, o seu voto é nulo, mas a eleição é válida, a não ser que conste que, excluído ele, o eleito não teria obtido o número de votos requerido."
+          ]
+        },
+        {
+          "index": 172,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da eleição"
+          },
+          "content": [
+            "Para que o voto seja válido, deve ser: l.° livre; portanto é inválido o voto daquele que, por medo grave ou dolo, directa ou indirectamente, for constrangido a eleger certa pessoa ou diversas pessoas disjuntivamente; 2.° secreto, certo, absoluto, determinado.",
+            "As condições apostas ao voto antes da eleição tenham-se por não apostas."
+          ]
+        },
+        {
+          "index": 173,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da eleição"
+          },
+          "content": [
+            "Antes de começar a eleição, escolham-se pelo menos dois escrutinadores pertencentes ao colégio ou ao grupo.",
+            "Os escrutinadores recolham os votos, e perante o presidente da eleição verifiquem se o número das cédulas corresponde ao número dos eleitores, abram os votos e publiquem quantos votos teve cada um.",
+            "Se o número dos votos superar o dos eleitores, o escrutínio é nulo.",
+            "Tudo o que sucedeu durante a eleição seja cuidadosamente exarado por escrito por quem desempenha o múnus de secretário, e a acta, assinada ao menos pelo mesmo secretário, pelo presidente e pelos escrutinadores, guarde-se diligentemente no arquivo do colégio."
+          ]
+        },
+        {
+          "index": 174,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da eleição"
+          },
+          "content": [
+            "Se outra coisa não se dispuser no direito ou nos estatutos, a eleição também pode efectuar-se por compromisso, contanto que os eleitores por consentimento unânime e dado por escrito transfiram por aquela vez o direito de eleger a uma ou mais pessoas idóneas, quer do grémio quer estranhas, as quais façam a eleição segundo a faculdade recebida e em nome de todos.",
+            "Se se tratar de um colégio ou grupo composto só de clérigos, os compromissários devem ter ordens sagradas; de contrário, a eleição é inválida.",
+            "Os compromissários devem observar as prescrições do direito acerca da eleição, e, para a validade da mesma, cumprir as condições apostas ao compromisso, que não sejam contrárias ao direito; as condições contrárias ao direito tenham-se por não apostas."
+          ]
+        },
+        {
+          "index": 175,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da eleição"
+          },
+          "content": "Cessa o compromisso, e o direito de votar regressa aos compromitentes: 1.° por revogação feita pelo colégio ou pelo grupo, antes de a eleição se iniciar; 2.° se não for cumprida alguma condição aposta ao compromisso; 3.º depois de terminada a eleição, se esta tiver sido nula."
+        },
+        {
+          "index": 176,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da eleição"
+          },
+          "content": "A não se dispor o contrário no direito ou nos estatutos, tenha-se por eleito e seja proclamado pelo presidente do colégio ou do grupo, o que tiver obtido o número de votos requerido, segundo as normas do cân. 119, n° 1."
+        },
+        {
+          "index": 177,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da eleição"
+          },
+          "content": [
+            "A eleição deve ser imediatamente intimada ao eleito, o qual dentro de oito dias úteis depois de receber a intimação deve manifestar ao presidente do colégio ou do grupo se aceita ou não a eleição; de contrário, a eleição não surte efeito.",
+            "Se o eleito não aceitar, perde todo o direito proveniente da eleição, o qual não revive com a aceitação subsequente, mas pode ser de novo eleito; o colégio ou o grupo no prazo de um mês a contar do conhecimento da não aceitação deve proceder a nova eleição."
+          ]
+        },
+        {
+          "index": 178,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da eleição"
+          },
+          "content": "O eleito, ao aceitar a eleição, que não necessite de confirmação, adquire imediatamente o ofício de pleno direito; de contrário só adquire o direito a ele."
+        },
+        {
+          "index": 179,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da eleição"
+          },
+          "content": [
+            "O eleito, se a eleição necessitar de confirmação, dentro de oito dias úteis contados a partir do dia da aceitação da eleição, deve pedir, por si ou por outrem, a confirmação à autoridade competente; de contrário, fica privado de todo o direito, a não ser que prove ter tido impedimento justo de pedir a confirmação.",
+            "A autoridade competente, se julgar que o eleito é idóneo segundo o cân. 149, § 1 e a eleição se tiver efectuado segundo as normas do direito, não pode recusar a confirmação.",
+            "A confirmação deve ser dada por escrito.",
+            "Antes de lhe ter sido intimada a confirmação, o eleito não pode imiscuir-se na administração do ofício, em matéria espiritual ou temporal, e os actos porventura por ele praticados são nulos.",
+            "Logo que lhe for intimada a confirmação, o eleito obtém o ofício de pleno direito, a não ser que o direito disponha outra coisa."
+          ]
+        },
+        {
+          "index": 180,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 4,
+            "name": "Da postulação"
+          },
+          "content": [
+            "Se algum impedimento canónico, de que se possa e seja costume dispensar, obstar à eleição daquele que os eleitores julguem mais apto e que prefiram, podem eles postulá-lo com os seus votos à autoridade competente, a não ser que o direito determine outra coisa.",
+            "Os compromissários não podem postular, a não ser que isso tenha sido expressamente incluído no compromisso."
+          ]
+        },
+        {
+          "index": 181,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 4,
+            "name": "Da postulação"
+          },
+          "content": [
+            "Para a postulação ser válida, requerem-se ao menos dois terços dos votos.",
+            "O voto para a postulação deve exprimir-se pela palavra postulo, ou equivalente; a fórmula: elejo ou postulo, ou equivalente, vale para a eleição se o impedimento não existir; de contrário, para a postulação."
+          ]
+        },
+        {
+          "index": 182,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 4,
+            "name": "Da postulação"
+          },
+          "content": [
+            "Dentro do prazo de oito dias úteis, deve a postulação ser enviada pelo presidente à autoridade competente para confirmar a eleição, a quem compete conceder a dispensa do impedimento, ou, se não tiver tal faculdade, solicitá-lo à autoridade superior; se não se requerer a confirmação, a postulação deve ser remetida à autoridade competente para conceder a dispensa.",
+            "Se a postulação não for remetida dentro do prazo prescrito, pelo mesmo facto torna-se nula, e o colégio ou grupo fica privado por aquela vez do direito de eleger ou de postular, a não ser que se prove que o presidente foi estorvado por algum justo impedimento de a remeter, ou por dolo ou negligência se absteve de a enviar em tempo oportuno.",
+            "O postulado não adquire nenhum direito com a postulação; e a autoridade competente não tem obrigação de a admitir.",
+            "Os eleitores não podem revogar a postulação feita à autoridade competente, a não ser com o consentimento da mesma autoridade."
+          ]
+        },
+        {
+          "index": 183,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 1,
+            "name": "Da provisão do ofício eclesiástico"
+          },
+          "article": {
+            "index": 4,
+            "name": "Da postulação"
+          },
+          "content": [
+            "Não sendo aceite a postulação pela autoridade competente, o direito de eleger é devolvido ao colégio ou grupo.",
+            "Se a postulação for admitida, comunique-se o facto ao postulado, o qual deve responder segundo as normas do cân. 177, § 1.",
+            "Quem aceitar a postulação admitida obtém imediatamente o ofício de pleno direito."
+          ]
+        },
+        {
+          "index": 184,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Da perda do ofício eclesiástico"
+          },
+          "article": "",
+          "content": [
+            "Perde-se o ofício eclesiástico: por ter transcorrido o tempo estabelecido, por ter sido atingido o limite de idade determinado pelo direito, por renúncia, transferência, remoção e privação.",
+            "Extinto por qualquer modo o direito da autoridade por quem foi conferido, não se perde o ofício eclesiástico, a não ser que o direito determine outra coisa.",
+            "A perda do ofício, que tenha surtido efeito, notifique-se quanto antes a todos aqueles a quem compete algum direito na provisão do ofício."
+          ]
+        },
+        {
+          "index": 185,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Da perda do ofício eclesiástico"
+          },
+          "article": "",
+          "content": "Àquele que perder o ofício por limite de idade ou por renúncia aceite, pode ser-lhe conferido o título de emérito."
+        },
+        {
+          "index": 186,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Da perda do ofício eclesiástico"
+          },
+          "article": "",
+          "content": "A perda do ofício, por ter transcorrido o prazo ou por se ter atingido o limite de idade, apenas surte efeito a partir do momento em que for intimada por escrito pela autoridade competente."
+        },
+        {
+          "index": 187,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Da perda do ofício eclesiástico"
+          },
+          "article": {
+            "index": 1,
+            "name": "Da renúncia"
+          },
+          "content": "Qualquer pessoa no uso da razão pode, por justa causa, renunciar ao ofício eclesiástico."
+        },
+        {
+          "index": 188,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Da perda do ofício eclesiástico"
+          },
+          "article": {
+            "index": 1,
+            "name": "Da renúncia"
+          },
+          "content": "A renúncia apresentada por medo grave, injustamente incutido, por dolo ou erro substancial ou feita simoniacamente, é inválida pelo próprio direito."
+        },
+        {
+          "index": 189,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Da perda do ofício eclesiástico"
+          },
+          "article": {
+            "index": 1,
+            "name": "Da renúncia"
+          },
+          "content": [
+            "Para ser válida, a renúncia, quer necessite de aceitação, quer não, deve ser apresentada, por escrito, ou oralmente perante duas testemunhas, à autoridade competente para prover o ofício de que se trata.",
+            "A autoridade não aceite a renúncia que não se baseie em causa justa e proporcionada.",
+            "A renúncia que necessitar de aceitação carece de valor se não for aceite dentro de três meses; se não necessitar de aceitação surte efeito pela comunicação do renunciante feita segundo as normas do direito.",
+            "A renúncia, enquanto não tiver surtido efeito, pode ser revogada pelo renunciante; se tiver surtido efeito, não pode ser revogada, mas o que renunciou pode obter o ofício por outro título."
+          ]
+        },
+        {
+          "index": 190,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Da perda do ofício eclesiástico"
+          },
+          "article": {
+            "index": 2,
+            "name": "Da transferência"
+          },
+          "content": [
+            "A transferência só pode ser feita por quem tem simultaneamente o direito de prover o ofício que se perde e o que se confere.",
+            "Se a transferência se fizer contra a vontade do titular do ofício, requer-se causa grave e, salvaguardando-se sempre o direito de expor as razões contrárias, observe-se o modo de proceder prescrito pelo direito.",
+            "Para a transferência surtir efeito, deve ser intimada por escrito."
+          ]
+        },
+        {
+          "index": 191,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Da perda do ofício eclesiástico"
+          },
+          "article": {
+            "index": 2,
+            "name": "Da transferência"
+          },
+          "content": [
+            "Em caso de transferência, o primeiro ofício vaga com a posse do segundo feita canonicamente, a não ser que o direito estabeleça outra coisa ou o determine a autoridade competente.",
+            "O transferido recebe a remuneração anexa ao primeiro ofício até ter tomado posse canónica do segundo."
+          ]
+        },
+        {
+          "index": 192,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Da perda do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da remoção"
+          },
+          "content": "A remoção do ofício dá-se quer por decreto emanado legitimamente da autoridade competente, mantidos os direitos porventura adquiridos por contrato, quer pelo próprio direito segundo as normas do cân. 194."
+        },
+        {
+          "index": 193,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Da perda do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da remoção"
+          },
+          "content": [
+            "Ninguém pode ser removido do ofício que lhe foi conferido por tempo indeterminado senão por causas graves e observado o modo de proceder estabelecido pelo direito.",
+            "O mesmo se diga quanto a poder alguém ser removido do ofício que lhe foi conferido por tempo determinado, antes de terminar aquele prazo, sem prejuízo do prescrito no cân. 624, § 3.",
+            "Aquele a quem, conforme os princípios do direito, o ofício foi conferido segundo a prudente discrição da autoridade competente, pode ser removido dele por causa justa, a juízo da mesma autoridade.",
+            "Para surtir o efeito, o decreto de remoção, deve ser intimado por escrito"
+          ]
+        },
+        {
+          "index": 194,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Da perda do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da remoção"
+          },
+          "content": [
+            "Pelo próprio direito é removido do ofício: 1.° quem perder o estado clerical; 2.° quem publicamente abandonar a fé católica ou a comunhão da Igreja; 3.° o clérigo que tiver atentado o matrimónio, mesmo só civil.",
+            "A remoção de que se trata nos ns. 2 e 3 só pode ser urgida se constar por declaração da autoridade competente."
+          ]
+        },
+        {
+          "index": 195,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Da perda do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da remoção"
+          },
+          "content": "Se alguém, não pelo próprio direito, mas por decreto da autoridade competente, for removido do ofício de que auferia o sustento, a mesma autoridade procure que oportunamente se proveja à sua sustentação durante o tempo conveniente, a não ser que já tenha sido providenciado de outra forma."
+        },
+        {
+          "index": 196,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 9,
+            "name": "Dos ofícios eclesiásticos"
+          },
+          "chapter": {
+            "index": 2,
+            "name": "Da perda do ofício eclesiástico"
+          },
+          "article": {
+            "index": 3,
+            "name": "Da privação"
+          },
+          "content": [
+            "A privação do ofício, como pena dum delito, só pode efectuar-se segundo as normas do direito.",
+            "A privação surte efeito segundo as prescrições dos cânones do direito penal."
+          ]
+        },
+        {
+          "index": 197,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 10,
+            "name": "Da prescrição"
+          },
+          "chapter": "",
+          "article": "",
+          "content": "A Igreja aceita a prescrição, como modo de adquirir ou de perder um direito subjectivo e bem assim de se libertar de obrigações, segundo o estabelecido na legislação civil da respectiva nação, com as excepções estabelecidas nos cânones deste Código."
+        },
+        {
+          "index": 198,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 10,
+            "name": "Da prescrição"
+          },
+          "chapter": "",
+          "article": "",
+          "content": "Nenhuma prescrição tem valor se não se basear na boa fé, não só no início, mas em todo o decurso do tempo requerido para a prescrição, salvo o prescrito no cân. 1362."
+        },
+        {
+          "index": 199,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 10,
+            "name": "Da prescrição"
+          },
+          "chapter": "",
+          "article": "",
+          "content": "Não estão sujeitos à prescrição: 1.° os direitos e obrigações que são de lei divina natural ou positiva; 2.° os direitos que só se podem obter por privilégio apostólico; 3.° os direitos e obrigações directamente respeitantes à vida espiritual dos fiéis; 4.° os limites certos e indubitáveis das circunscrições eclesiásticas; 5.º os estipêndios e encargos de Missas; 6.° a provisão do ofício eclesiástico que, segundo as normas do direito, requer o exercício da ordem sagrada; 7.° o direito de visita e a obrigação de obediência, de forma que os fiéis não possam ser visitados por nenhuma autoridade eclesiástica e já não estejam sujeitos a nenhuma autoridade."
+        },
+        {
+          "index": 200,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 11,
+            "name": "Do cômputo do tempo"
+          },
+          "chapter": "",
+          "article": "",
+          "content": "Se outra coisa não estiver expressamente determinada no direito, conte-se o tempo segundo as normas dos cânones seguintes."
+        },
+        {
+          "index": 201,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 11,
+            "name": "Do cômputo do tempo"
+          },
+          "chapter": "",
+          "article": "",
+          "content": [
+            "Entende-se por tempo contínuo aquele que não sofre nenhuma interrupção.",
+            "Entende-se por tempo útil aquele que de tal forma compete a quem exerce ou persegue o seu direito, que não corra para quem ignore ou não possa agir."
+          ]
+        },
+        {
+          "index": 202,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 11,
+            "name": "Do cômputo do tempo"
+          },
+          "chapter": "",
+          "article": "",
+          "content": [
+            "Em direito, entende-se por dia o espaço de 24 horas contadas de forma contínua, e começa à meia-noite, a não ser que expressamente se diga outra coisa; por semana, o espaço de 7 dias; por mês, o espaço de 30 dias, e por ano, o espaço de 365 dias, a não ser que se diga que o mês e o ano se devem contar como estão no calendário.",
+            "Se o tempo for contínuo, o mês e o ano devem contar-se sempre como estão no calendário."
+          ]
+        },
+        {
+          "index": 203,
+          "book": {
+            "index": 1,
+            "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 11,
+            "name": "Do cômputo do tempo"
+          },
+          "chapter": "",
+          "article": "",
+          "content": [
+            "O dia a quo não se inclui no prazo, a não ser que o início deste coincida com o início do dia, ou outra coisa se estabeleça expressamente no direito.",
+            "A não ser que se estabeleça o contrário, o dia ad quem inclui-se no prazo, de modo que, se este constar de um ou mais meses ou anos, uma ou mais semanas, termina com o fim do último dia do mesmo número, ou, se o mês carecer deste número, ao terminar o último dia do mês."
+          ]
+        }
+      ]
+    }
+  ]
+}
