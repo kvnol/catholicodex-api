@@ -755,8 +755,7 @@
           },
           "content": [
             "O decreto singular, cuja aplicação se confia ao executor, surte efeito desde o momento da execução; de contrário, desde o momento em que é intimado ao interessado por autoridade da pessoa que o lavrou.",
-            "O decreto singular, para poder ser urgido, deve ser intimado por documento
-            legítimo segundo as normas do direito."
+            "O decreto singular, para poder ser urgido, deve ser intimado por documento legítimo segundo as normas do direito."
           ]
         },
         {
@@ -2797,8 +2796,7 @@
             "name": "Da eleição"
           },
           "content": [
-            "São inábeis para votar: 1.° o incapaz de actos humanos; 2.° quem carecer de voz activa; 3.º quem estiver abrangido pela pena de excomunhão por sentença judicial
-         ou por decreto que aplique ou declare a pena; 4.º quem notoriamente se afastou da comunhão da Igreja.",
+            "São inábeis para votar: 1.° o incapaz de actos humanos; 2.° quem carecer de voz activa; 3.º quem estiver abrangido pela pena de excomunhão por sentença judicial ou por decreto que aplique ou declare a pena; 4.º quem notoriamente se afastou da comunhão da Igreja.",
             "Se algum dos referidos for admitido, o seu voto é nulo, mas a eleição é válida, a não ser que conste que, excluído ele, o eleito não teria obtido o número de votos requerido."
           ]
         },
@@ -3451,6 +3449,26 @@
           "book": {
             "index": 1,
             "name": "Das normas gerais"
+          },
+          "title": {
+            "index": 11,
+            "name": "Do cômputo do tempo"
+          },
+          "chapter": "",
+          "article": "",
+          "content": [
+            "O dia a quo não se inclui no prazo, a não ser que o início deste coincida com o início do dia, ou outra coisa se estabeleça expressamente no direito.",
+            "A não ser que se estabeleça o contrário, o dia ad quem inclui-se no prazo, de modo que, se este constar de um ou mais meses ou anos, uma ou mais semanas, termina com o fim do último dia do mesmo número, ou, se o mês carecer deste número, ao terminar o último dia do mês."
+          ]
+        },
+        {
+          "index": 204,
+          "book": {
+            "index": 2,
+            "name": "Do povo de Deus"
+          },
+          "part": {
+
           },
           "title": {
             "index": 11,
